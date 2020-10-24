@@ -7,4 +7,9 @@ If you would like, you can open the code with the blanks and fill them in as I g
 If you don't want to fill in the blanks, you can click on "Intro_To_DataScience_Workshop.ipynb" to view the filled in code. 
 If you have any questions please let me know or reference the filled in code!
 
+# What is CADS? 
+Carolina Analytics & Data Science (CADS) is concerned with providing students interested in Data Science opportunities to grow personally, intellectually, professionally, and socially among a support network of students, professors, and professionals. This mission is to be accomplished through events, including a speaker series from industry professionals, data case competition, workshops, and investigating and analyzing University and community data to drive community-based projects and solutions.
+
+For more information visit our website here: https://carolinadata.unc.edu/
+
 
